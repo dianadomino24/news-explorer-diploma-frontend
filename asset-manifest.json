@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/news-explorer-diploma-frontend/static/css/main.742b07c2.chunk.css",
+    "main.js": "/news-explorer-diploma-frontend/static/js/main.bcca55df.chunk.js",
+    "main.js.map": "/news-explorer-diploma-frontend/static/js/main.bcca55df.chunk.js.map",
+    "runtime-main.js": "/news-explorer-diploma-frontend/static/js/runtime-main.6cec18db.js",
+    "runtime-main.js.map": "/news-explorer-diploma-frontend/static/js/runtime-main.6cec18db.js.map",
+    "static/js/2.a3997ada.chunk.js": "/news-explorer-diploma-frontend/static/js/2.a3997ada.chunk.js",
+    "static/js/2.a3997ada.chunk.js.map": "/news-explorer-diploma-frontend/static/js/2.a3997ada.chunk.js.map",
+    "index.html": "/news-explorer-diploma-frontend/index.html",
+    "static/css/main.742b07c2.chunk.css.map": "/news-explorer-diploma-frontend/static/css/main.742b07c2.chunk.css.map",
+    "static/js/2.a3997ada.chunk.js.LICENSE.txt": "/news-explorer-diploma-frontend/static/js/2.a3997ada.chunk.js.LICENSE.txt",
+    "static/media/Banner.css": "/news-explorer-diploma-frontend/static/media/bg-mobile.0f992363.jpg",
+    "static/media/Button.css": "/news-explorer-diploma-frontend/static/media/trash-light.a18d31f4.svg",
+    "static/media/diana.1a1837cc.jpg": "/news-explorer-diploma-frontend/static/media/diana.1a1837cc.jpg",
+    "static/media/git.ac1caa48.svg": "/news-explorer-diploma-frontend/static/media/git.ac1caa48.svg",
+    "static/media/index.css": "/news-explorer-diploma-frontend/static/media/sourcesanspro-regular.95f3ed41.woff",
+    "static/media/linked-in.bea26c67.svg": "/news-explorer-diploma-frontend/static/media/linked-in.bea26c67.svg",
+    "static/media/logout-icon-dark.9ed72999.svg": "/news-explorer-diploma-frontend/static/media/logout-icon-dark.9ed72999.svg",
+    "static/media/logout-icon-light.d5d5935d.svg": "/news-explorer-diploma-frontend/static/media/logout-icon-light.d5d5935d.svg",
+    "static/media/not-found-icon.b16e6896.svg": "/news-explorer-diploma-frontend/static/media/not-found-icon.b16e6896.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cec18db.js",
+    "static/js/2.a3997ada.chunk.js",
+    "static/css/main.742b07c2.chunk.css",
+    "static/js/main.bcca55df.chunk.js"
+  ]
+}
