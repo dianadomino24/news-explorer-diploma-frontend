@@ -12,6 +12,7 @@
 ---
 ## :link: Links to test
 
+[GitPages link to try the app](https://dianadomino24.github.io/news-explorer-diploma-frontend/) 
 
 ---
 ## :arrow_down: How to install and test
