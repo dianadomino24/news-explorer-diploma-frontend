@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/news-explorer-diploma-frontend/static/css/main.742b07c2.chunk.css",
-    "main.js": "/news-explorer-diploma-frontend/static/js/main.bcca55df.chunk.js",
-    "main.js.map": "/news-explorer-diploma-frontend/static/js/main.bcca55df.chunk.js.map",
+    "main.js": "/news-explorer-diploma-frontend/static/js/main.b957bd43.chunk.js",
+    "main.js.map": "/news-explorer-diploma-frontend/static/js/main.b957bd43.chunk.js.map",
     "runtime-main.js": "/news-explorer-diploma-frontend/static/js/runtime-main.6cec18db.js",
     "runtime-main.js.map": "/news-explorer-diploma-frontend/static/js/runtime-main.6cec18db.js.map",
     "static/js/2.a3997ada.chunk.js": "/news-explorer-diploma-frontend/static/js/2.a3997ada.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.6cec18db.js",
     "static/js/2.a3997ada.chunk.js",
     "static/css/main.742b07c2.chunk.css",
-    "static/js/main.bcca55df.chunk.js"
+    "static/js/main.b957bd43.chunk.js"
   ]
 }
