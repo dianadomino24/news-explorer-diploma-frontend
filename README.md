@@ -19,7 +19,7 @@
 1. Clone the repository:
 
 ```
-git clone https://github.com/dianadomino24/news-explorer-frontend.git
+git clone https://github.com/dianadomino24/news-explorer-diploma-frontend.git
 ```
 
 2. Install dependencies:
