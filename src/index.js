@@ -6,7 +6,7 @@ import App from './components/App/App';
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/news-explorer-diploma-frontend">
       <App/>
     </BrowserRouter>
   </React.StrictMode>,
